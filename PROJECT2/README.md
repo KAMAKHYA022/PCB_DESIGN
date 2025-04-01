@@ -67,15 +67,15 @@ Traditional AC to DC converters use transformers to step down voltage. However, 
 ---
 
 ## 🔹 PCB Design
-📌 **[Click here to view the PCB layout](/pcb_layout.jpg)**  
+📌 **[Click here to view the PCB layout](pcb_layout.JPG)**  
 
-![PCB Layout for Transformerless AC to DC 5V](/pcb_layout.jpg)
+![PCB Layout for Transformerless AC to DC 5V](pcb_layout.JPG)
 
 ---
 
 ## 🔹 Simulation
 - The circuit is tested in **Proteus** and verified for stable **5V DC output**.  
-- 📌 **[Click here to view simulation results](/simulation.jpg)**  
+- 📌 **[Click here to view simulation results](simulation.JPG)**  
 
 ---
 
