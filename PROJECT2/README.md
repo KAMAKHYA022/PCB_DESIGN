@@ -30,9 +30,9 @@ Traditional AC to DC converters use transformers to step down voltage. However, 
 ---
 
 ## 🔹 Circuit Diagram
-📌 **[Click here to view the schematic](schematic.jpg)**  
+📌 **[Click here to view the schematic](schematic.JPG)**  
 
-![Transformerless AC to DC 5V Circuit](schematic.jpg)
+![Transformerless AC to DC 5V Circuit](schematic.JPG)
 
 ---
 
